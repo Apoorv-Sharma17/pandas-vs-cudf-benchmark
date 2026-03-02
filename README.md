@@ -36,7 +36,7 @@ Open directly in Google Colab:
 
 ## Environment
 - Platform: Google Colab (NVIDIA T4 GPU)
-- cuDF version: [paste yours from Cell 4 output]
+- cuDF version: 26.02.01
 - Python: 3.x
 
 ## Full Article
