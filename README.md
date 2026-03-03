@@ -40,4 +40,4 @@ Open directly in Google Colab:
 - Python: 3.x
 
 ## Full Article
-[Link to Towards Data Science article] — coming soon
+[Link](https://medium.com/@apoorvsharma1709/gpu-accelerated-etl-ran-34-9x-cf1fb6ab6c13)
